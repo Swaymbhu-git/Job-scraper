@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Playwright browser cache
+/node_modules/.bin/playwright
+/Users/
+/Library/
